@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Final Dengue Mosquito Images Data for Research</folder>
+	<filename>129.JPG</filename>
+	<path>F:\Desktop\Dengue_mosquitio_research\Final Dengue Mosquito Images Data for Research\129.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>587</width>
+		<height>538</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dengue_mosquito</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>43</ymin>
+			<xmax>585</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>
